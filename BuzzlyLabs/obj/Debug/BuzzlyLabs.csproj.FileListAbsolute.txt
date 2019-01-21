@@ -1,0 +1,15 @@
+D:\Projects\BuzzlyLabs\BuzzlyLabs\bin\Debug\BuzzlyLabs.exe.config
+D:\Projects\BuzzlyLabs\BuzzlyLabs\bin\Debug\BuzzlyLabs.exe
+D:\Projects\BuzzlyLabs\BuzzlyLabs\bin\Debug\BuzzlyLabs.pdb
+D:\Projects\BuzzlyLabs\BuzzlyLabs\obj\Debug\MainWindow.g.cs
+D:\Projects\BuzzlyLabs\BuzzlyLabs\obj\Debug\App.g.cs
+D:\Projects\BuzzlyLabs\BuzzlyLabs\obj\Debug\BuzzlyLabs_MarkupCompile.cache
+D:\Projects\BuzzlyLabs\BuzzlyLabs\obj\Debug\BuzzlyLabs_MarkupCompile.lref
+D:\Projects\BuzzlyLabs\BuzzlyLabs\obj\Debug\MainWindow.baml
+D:\Projects\BuzzlyLabs\BuzzlyLabs\obj\Debug\BuzzlyLabs.g.resources
+D:\Projects\BuzzlyLabs\BuzzlyLabs\obj\Debug\BuzzlyLabs.Properties.Resources.resources
+D:\Projects\BuzzlyLabs\BuzzlyLabs\obj\Debug\BuzzlyLabs.csproj.GenerateResource.cache
+D:\Projects\BuzzlyLabs\BuzzlyLabs\obj\Debug\BuzzlyLabs.csproj.CoreCompileInputs.cache
+D:\Projects\BuzzlyLabs\BuzzlyLabs\obj\Debug\BuzzlyLabs.exe
+D:\Projects\BuzzlyLabs\BuzzlyLabs\obj\Debug\BuzzlyLabs.pdb
+D:\Projects\BuzzlyLabs\BuzzlyLabs\obj\Debug\GeneratedInternalTypeHelper.g.cs
